@@ -1,0 +1,12 @@
+SHELL=/bin/sh
+PATH=/usr/bin:/bin
+PWD=/root
+LANG=C.UTF-8
+SHLVL=1
+HOME=/home/pi
+LOGNAME=pi
+DISPLAY=:0.0
+_=/usr/bin/printenv
+/home/pi/.Xauthority
+access control disabled, clients can connect from any host
+xauth: (argv):1:  unknown command ":0.0"
