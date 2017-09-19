@@ -1,6 +1,6 @@
 ##An IoT-Ready Streaming Manager Device for Classroom Environments in a Smart Campus
 
-The conent of this git goes into:
+The content of this git goes into:
 
 ´´´
 /usr/bin/local/sbin
@@ -25,7 +25,7 @@ Install pymssql:
 sudo apt-get update && sudo apt-get install freetds-dev freetds-bin && sudo apt-get install python-dev python-pip && sudo pip install pymssql
 ´´´
 
-Run a SQL server in a computer in the LAN
+Run a SQL server on a computer in the LAN
 
 SQL server pass> Qw2244946
 
